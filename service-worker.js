@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/stop-panic/precache-manifest.8a223223ac4eb1c2c9ead9ea870652e6.js"
+  "/stop-panic/precache-manifest.fc60e538a6c0e43408e3875ec24d2e29.js"
 );
 
 self.addEventListener('message', (event) => {

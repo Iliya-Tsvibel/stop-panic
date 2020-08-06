@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e88b12c8d860c1ad2e889f0db577ba8d",
+    "revision": "ffc7d3f5fcce9c051f1478fb9396df17",
     "url": "/stop-panic/index.html"
   },
   {
-    "revision": "f12958e285248a9b7035",
+    "revision": "38786f66fe11cb18f031",
     "url": "/stop-panic/static/css/main.12eab20d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/stop-panic/static/js/2.4218ff92.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f12958e285248a9b7035",
-    "url": "/stop-panic/static/js/main.29f193be.chunk.js"
+    "revision": "38786f66fe11cb18f031",
+    "url": "/stop-panic/static/js/main.452e2fce.chunk.js"
   },
   {
     "revision": "6bb5f692f2dcb195c80a",
